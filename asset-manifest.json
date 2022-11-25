@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Farewell/static/css/main.bb27d5d7.css",
+    "main.js": "/Farewell/static/js/main.3e33aa5b.js",
+    "static/media/aestheticbg2.jpg": "/Farewell/static/media/aestheticbg2.4829fcafde0c3cb59f7d.jpg",
+    "static/media/panda.png": "/Farewell/static/media/panda.08f40fa8a0309e324f00.png",
+    "static/media/quotes.png": "/Farewell/static/media/quotes.acd9cef088da4526f712.png",
+    "static/media/coffee.png": "/Farewell/static/media/coffee.31bdd059d00c1ff87e27.png",
+    "static/media/spotify.png": "/Farewell/static/media/spotify.cd2c2228d20d582d5ef5.png",
+    "static/media/youtube.png": "/Farewell/static/media/youtube.44da545fc6b5b470ed6d.png",
+    "static/media/trophy.png": "/Farewell/static/media/trophy.16e6df06d5ae2e4ee3f4.png",
+    "index.html": "/Farewell/index.html",
+    "main.bb27d5d7.css.map": "/Farewell/static/css/main.bb27d5d7.css.map",
+    "main.3e33aa5b.js.map": "/Farewell/static/js/main.3e33aa5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb27d5d7.css",
+    "static/js/main.3e33aa5b.js"
+  ]
+}
